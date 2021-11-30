@@ -4,3 +4,4 @@ update11
 updateGitReset
 updateSkolowaneRepo
 updateFetchAPull
+updateJeszczeJednaZmiana
